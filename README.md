@@ -64,7 +64,14 @@ This project implements a robust method for tracking the 3D orientation of a rot
 - Detailed project report available in [`report/ECE276A_Project1_Report.pdf`](report/ECE276A_Project1_Report.pdf).
 - Sensor datasheets and references located under [`docs/`](docs/).
 
-## 👤 Author
-**Brian (Shou Yu) Wang** – [BrianSY541](https://github.com/BrianSY541)
+---
 
-📧 Contact: briansywang541@gmail.com | www.linkedin.com/in/sywang541
+## 📧 Contact
+- **Brian (Shou-Yu) Wang**  
+  - Email: briansywang541@gmail.com  
+  - LinkedIn: [linkedin.com/in/sywang541](https://linkedin.com/in/sywang541)
+  - GitHub: [BrianSY541](https://github.com/BrianSY541)
+
+---
+
+**Project developed as part of ECE 276A: Sensing & Estimation in Robotics at UC San Diego.**
