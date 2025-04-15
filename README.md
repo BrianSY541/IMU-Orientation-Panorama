@@ -52,22 +52,6 @@ This project implements a robust method for tracking the 3D orientation of a rot
     └── README.md
 ```
 
-## 🚀 Running the Project
-### Installation
-```bash
-pip install -r requirements.txt
-```
-
-### Execute Orientation Tracking
-```bash
-python src/orientation_tracking.py
-```
-
-### Generate Panoramic Images
-```bash
-python src/panorama.py
-```
-
 ## 📈 Results & Evaluation
 - Estimated roll, pitch, and yaw angles closely match ground truth (mean absolute errors under 0.5°).
 - Effective panorama stitching verified through coherent visual reconstruction, despite minor yaw drift in prolonged sequences.
