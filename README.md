@@ -23,12 +23,6 @@ This project implements a robust method for tracking the 3D orientation of a rot
 ## 📂 Repository Structure
 ```
 .
-├── data/
-│   ├── cam/
-│   ├── imu/
-│   ├── testset/
-│   ├── trainset/
-│   └── vicon/
 ├── docs/
 │   ├── accelerometer_datasheet_adxl335.pdf
 │   ├── gyroscope_pitch_roll_datasheet_lpr530al.pdf
